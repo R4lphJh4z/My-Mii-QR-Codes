@@ -1,6 +1,4 @@
-<p align="center">
-  # **My Mii QR Codes**
-</p>
+# **My Mii QR Codes**
 
 <p align="center">
   <img src="https://i.redd.it/nqybc4k87oag1.jpeg" alt="Qr Code"
