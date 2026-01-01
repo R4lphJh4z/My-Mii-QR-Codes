@@ -11,3 +11,5 @@
 <p align="center">
   <em>Scan the QR Codes and you get my miis!</em>
 </p>
+
+# How to Scan Mii QR Codes!
