@@ -1,5 +1,5 @@
 <p align="center">
-  # My Mii QR Codes
+  # **My Mii QR Codes**
 </p>
 
 <p align="center">
