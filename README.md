@@ -1,3 +1,3 @@
 # My-Mii-QR-Codes
 Scan my mii qr codes, you get the miis!
-![Ralph's Mii QR Codes]("C:\Users\Msi\Downloads\Image.jpg")
+![Image](https://github.com/user-attachments/assets/d9540ce3-3eb5-44f9-a00f-f3cea8f53770)
